@@ -5,7 +5,7 @@
 
 # Libraries used
 1. numpy
-2. Counter
+2. collections
 3. copy
 4. re, the regular expressions library
 
